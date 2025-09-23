@@ -1,6 +1,6 @@
 fdvbygveyv
-asdkeyboardasd1
+asdkeyboardasd0
 asdisminimizingasd1
-asdmouseasd1
+asdmouseasd0
 asdforcestopasd0
 
