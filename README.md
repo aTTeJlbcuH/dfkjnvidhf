@@ -1,5 +1,5 @@
 fdvbygveyv
-asdkeyboardasd1
-asdisminimizingasd1
-asdmouseasd1
+asdkeyboardasd0
+asdisminimizingasd0
+asdmouseasd0
 
